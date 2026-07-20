@@ -56,8 +56,8 @@
   {
     "itemName": "ms_complete",
     "imageName": "ms_ms_complete.png",
-    "roiFront": "397,593,100,21",
-    "roiBack": "397,593,100,21",
+    "roiFront": "415,561,100,21",
+    "roiBack": "415,561,100,21",
     "method": "Template matching",
     "threshold": 0.8,
     "description": "绘卷100%"
@@ -92,8 +92,8 @@
   {
     "itemName": "ms_complete_95",
     "imageName": "ms_ms_complete_100.png",
-    "roiFront": "655,594,4,18",
-    "roiBack": "655,594,4,18",
+    "roiFront": "655,594,8,18",
+    "roiBack": "655,594,8,18",
     "method": "Template matching",
     "threshold": 0.8,
     "description": "绘卷到达95%进度"
@@ -101,8 +101,8 @@
   {
     "itemName": "ms_fragment_s",
     "imageName": "ms_ms_fragment_s.png",
-    "roiFront": "648,8,40,35",
-    "roiBack": "648,8,40,35",
+    "roiFront": "652,24,40,35",
+    "roiBack": "652,24,40,35",
     "method": "Template matching",
     "threshold": 0.8,
     "description": "小碎片"
@@ -110,8 +110,8 @@
   {
     "itemName": "ms_fragment_s_50",
     "imageName": "ms_ms_fragment_s_50.png",
-    "roiFront": "536,315,60,25",
-    "roiBack": "536,315,60,25",
+    "roiFront": "544,310,31,29",
+    "roiBack": "544,310,31,29",
     "method": "Template matching",
     "threshold": 0.9,
     "description": "小碎片满50"
@@ -119,8 +119,8 @@
   {
     "itemName": "ms_fragment_s_verification",
     "imageName": "ms_ms_fragment_s_verification.png",
-    "roiFront": "522,318,100,100",
-    "roiBack": "522,318,100,100",
+    "roiFront": "594,114,100,100",
+    "roiBack": "594,114,100,100",
     "method": "Template matching",
     "threshold": 0.8,
     "description": "description"
